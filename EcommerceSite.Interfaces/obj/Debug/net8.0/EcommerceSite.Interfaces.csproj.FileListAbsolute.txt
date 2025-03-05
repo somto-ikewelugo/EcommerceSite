@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\bin\Debug\net8.0\EcommerceSite.Interfaces.deps.json
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\bin\Debug\net8.0\EcommerceSite.Interfaces.dll
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\bin\Debug\net8.0\EcommerceSite.Interfaces.pdb
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\bin\Debug\net8.0\EcommerceSite.Entities.dll
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\bin\Debug\net8.0\EcommerceSite.Entities.pdb
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.AssemblyInfo.cs
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.sourcelink.json
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\Ecommerc.051955B1.Up2Date
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.dll
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\refint\EcommerceSite.Interfaces.dll
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\EcommerceSite.Interfaces.pdb
+C:\Users\USER\Documents\C# Projects\EcommerceSite\EcommerceSite.Interfaces\obj\Debug\net8.0\ref\EcommerceSite.Interfaces.dll
