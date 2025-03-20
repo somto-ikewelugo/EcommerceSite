@@ -1,5 +1,5 @@
 ﻿using EcommerceSite.Entities.Dtos;
-using EcommerceSite.Interfaces;
+using EcommerceSite.Services.Interfaces;
 using EcommerceSite.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 

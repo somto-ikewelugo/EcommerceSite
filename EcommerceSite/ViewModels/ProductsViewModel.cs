@@ -4,6 +4,6 @@ namespace EcommerceSite.ViewModels
 {
     public class ProductsViewModel
     {
-        public List<Product> products = new List<Book>();
+        public List<Product> products = new List<Product>();
     }
 }

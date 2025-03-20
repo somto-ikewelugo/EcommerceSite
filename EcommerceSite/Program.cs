@@ -1,3 +1,8 @@
+using EcommerceSite.Controllers;
+using EcommerceSite.Services.Interfaces;
+using EcommerceSite.Services.Services;
+using EcommerceSite.ViewModels;
+
 namespace EcommerceSite
 {
     public class Program
@@ -8,6 +13,9 @@ namespace EcommerceSite
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<ProductsViewModel>();
+            builder.Services.AddScoped<ProductController>();
 
             var app = builder.Build();
 
@@ -29,6 +37,8 @@ namespace EcommerceSite
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            //app.MapControllers();
 
             app.Run();
         }
