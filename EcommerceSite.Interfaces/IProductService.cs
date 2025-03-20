@@ -12,5 +12,9 @@ namespace EcommerceSite.Interfaces
     {
         void Create(ProductCreationDto productCreationDto);
         List<Product> GetProducts();
+
+        void DeleteProduct(string id);
+
+        void UpdateProduct(ProductUpdateDto updateDto);
     }
 }

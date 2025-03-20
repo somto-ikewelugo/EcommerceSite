@@ -8,15 +8,15 @@ namespace EcommerceSite.Entities
 {
     public class Product
     {
-        public int Id { get; set; }
+        public string Id { get; set; } = Guid.NewGuid().ToString().Substring(0, 12);
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
         public int Quantity { get; set; }
+        
 
-        public Product(int id, string name, string description, decimal price, int quantity) 
+        public Product(string name, string description, decimal price, int quantity)
         {
-            Id = id;
             Name = name;
             Description = description;
             Price = price;
