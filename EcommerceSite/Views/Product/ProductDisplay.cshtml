@@ -1,0 +1,62 @@
+﻿@* @model ProductsViewModel  *@
+
+@* @{ *@
+@*     ViewData["Title"] = "Products"; *@
+@* } *@
+
+@* <!DOCTYPE html> *@
+@* <html xmlns="http://www.w3.org/1999/xhtml"> *@
+@*     <head> *@
+@*         <title> *@
+@*             Available Products *@
+@*         </title> *@
+@*     </head> *@
+@*     <body> *@
+@*             <div> *@
+@*             <a asp-action="ProductCreatePage" asp-controller="Product" class="btn btn-primary custom-create-btn"> *@
+@*                 Add Product *@
+@*             </a> *@
+@*                 <h2 class="mb-3"> *@
+@*                     Product Collection *@
+@*                 </h2> *@
+@*         <table> *@
+@*             <thead> *@
+@*                 <tr> *@
+@*                     <th>Id</th> *@
+@*                     <th>Name</th> *@
+@*                     <th>Description</th> *@
+@*                     <th>Price</th> *@
+@*                     <th>Quantity</th> *@
+
+@*                 </tr> *@
+@*             </thead> *@
+@*             <tbody> *@
+@*                 @foreach (var product in Model.products) *@
+@*                 { *@
+@*                     <tr class="mx-4 mb-3"> *@
+@*                         <td>@product.Id</td> *@
+@*                         <td>@product.Name</td> *@
+@*                         <td>@product.Description</td> *@
+@*                         <td>@product.Price</td> *@
+@*                         <td>@product.Quantity</td> *@
+@*                         <td> *@
+@*                             <a asp-action="ProductUpdateView" asp-controller="Product" asp-route-id="@product.Id" class="btn btn-warning custom-create-btn"> *@
+@*                                 Update *@
+@*                             </a> *@
+
+@*                         </td> *@
+@*                         <td> *@
+@*                             <form asp-action="DeleteProduct" asp-controller="Product" asp-route-id="@product.Id" method="post" style="display:inline;"> *@
+@*                                 <button type="submit" class="btn btn-danger"> *@
+@*                                     Delete *@
+@*                                 </button> *@
+@*                             </form> *@
+@*                         </td> *@
+@*                     </tr> *@
+@*                 } *@
+@*             </tbody> *@
+
+@*         </table> *@
+@*     </div> *@
+
+       
