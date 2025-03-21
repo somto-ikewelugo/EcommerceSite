@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hLPpcDygHI4ZaN9UnN9r1k48LsK/73tSP2Xbr1ENuyM=",
+  "Hash": "mLteHtVCI0s99Opi7QWf1wRq9T+s+sKfkJL6jbf2fmw=",
   "Source": "EcommerceSite",
   "BasePath": "_content/EcommerceSite",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "y9dei6kxxo",
-      "Integrity": "ShuEQ+VkUi/6mfqOEtHeXMkZ2+e1mS33vPMzHcsW0QA=",
+      "Fingerprint": "7lkvpcppw9",
+      "Integrity": "BU24u3z5RFOy0K+CZmz6jn98IurZ6aRuPriFJRo4Zu4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,6 +1321,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.7lkvpcppw9.css",
+      "AssetFile": "C:\\Users\\USER\\Documents\\C# Projects\\EcommerceSite\\EcommerceSite\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2746"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BU24u3z5RFOy0K+CZmz6jn98IurZ6aRuPriFJRo4Zu4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 00:49:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lkvpcppw9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BU24u3z5RFOy0K+CZmz6jn98IurZ6aRuPriFJRo4Zu4="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\USER\\Documents\\C# Projects\\EcommerceSite\\EcommerceSite\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1331,7 +1376,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16042"
+          "Value": "2746"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1384,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ShuEQ+VkUi/6mfqOEtHeXMkZ2+e1mS33vPMzHcsW0QA=\""
+          "Value": "\"BU24u3z5RFOy0K+CZmz6jn98IurZ6aRuPriFJRo4Zu4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:11:23 GMT"
+          "Value": "Fri, 21 Mar 2025 00:49:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,52 +1398,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ShuEQ+VkUi/6mfqOEtHeXMkZ2+e1mS33vPMzHcsW0QA="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.y9dei6kxxo.css",
-      "AssetFile": "C:\\Users\\USER\\Documents\\C# Projects\\EcommerceSite\\EcommerceSite\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16042"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ShuEQ+VkUi/6mfqOEtHeXMkZ2+e1mS33vPMzHcsW0QA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Mar 2025 14:11:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y9dei6kxxo"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ShuEQ+VkUi/6mfqOEtHeXMkZ2+e1mS33vPMzHcsW0QA="
+          "Value": "sha256-BU24u3z5RFOy0K+CZmz6jn98IurZ6aRuPriFJRo4Zu4="
         }
       ]
     },
